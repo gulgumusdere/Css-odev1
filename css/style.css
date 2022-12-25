@@ -1,0 +1,45 @@
+
+html{font-family: "Open Sans", sans-serif}
+
+header{
+    
+    list-style-position:inside;
+    text-align: center;
+}
+header h1{
+    color: red;
+}
+header a{
+    
+    color: blue;
+}
+header ul{list-style-type: none;
+float: none;}
+header li{float:none}
+
+article h2{
+    color: purple;
+    text-align: center;
+}
+article p{text-align: center;}
+
+section h3{
+    color: rgb(146, 146, 56);
+    text-align: center;
+}
+section ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+section h2{color: yellowgreen;}
+
+article ul{text-align: center;
+list-style-position: inside;
+}
+
+footer {color: black;
+        list-style-position: inside;}
+        footer ul{list-style-type: none}
+        footer li{float:left}
+   
